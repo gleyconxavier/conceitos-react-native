@@ -8,6 +8,7 @@ Desafio sobre conceitos do React Native aplicado no Bootcamp GoStack. 🚀
 [![GitHub license](https://img.shields.io/github/license/gleyconxavier/conceitos-react-native)](https://github.com/gleyconxavier/conceitos-react-native/blob/master/LICENSE.md)
 
 <hr />
+<br />
 
 ## ⚠️ Requisitos
 
@@ -18,7 +19,6 @@ Desafio sobre conceitos do React Native aplicado no Bootcamp GoStack. 🚀
 
  [📄 Documentação](https://react-native.rocketseat.dev/) recomendada de instalação.
  
-<br />
 <br />
 
 ## 📋 Como usar
@@ -32,7 +32,9 @@ Desafio sobre conceitos do React Native aplicado no Bootcamp GoStack. 🚀
 - Realizar suíte testes: ```yarn test```.
 
 <hr />
+<br />
 
 ## 📝 Anotações
 
 [Anotações sobre o React Native](https://www.notion.so/React-Native-89f46ae368af49a295a37dfc646e6c5a)
+
